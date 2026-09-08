@@ -1,0 +1,44 @@
+# Forensic Evidence Files (too large for Git)
+data/
+home/
+etc/
+lib/
+opt/
+root/
+tmp/
+usr/
+var/
+journal_exports/
+system_info/
+
+# Keep only the writeup and solution files
+!WRITEUP.md
+!README.md
+!solve.py
+!.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
