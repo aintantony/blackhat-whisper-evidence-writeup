@@ -1,5 +1,9 @@
 # Whisper Evidence - CTF Challenge Writeup
 
+![CTF](https://img.shields.io/badge/CTF-BlackHat%20MEA%202026-black?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-Forensics-blue?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-aintantony-green?style=for-the-badge)
+
 **Competition:** BlackHat MEA Qualification CTF 2026  
 **Category:** Digital Forensics / Insider Threat  
 **Difficulty:** Medium  
